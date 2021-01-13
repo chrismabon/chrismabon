@@ -1,5 +1,3 @@
-## SJ's Livestream
-
 ### Social Media
 * 🎮[Twitch](https://sjlink.live/hv)
 * 🎥[YouTube](https://sjlink.live/hy)
@@ -9,7 +7,7 @@
 * 🖼️[Imgur](https://sjlink.live/hm)
 * 🎵[SoundCloud](https://sjlink.live/hc)
 
-### Other Links
+### Other
 * 🕹️[Steam](https://sjlink.live/ht)
 * ✨[Livestream Landing Page](https://sjlink.live/hl)
 * 🌐[PhasePharmer web app](https://phasepharmer.app)
