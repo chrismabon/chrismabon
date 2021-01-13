@@ -1,13 +1,16 @@
-## Social Media Links
+## SJ's Livestream
 
+### Social Media
 * 🎮[Twitch](https://sjlink.live/hv)
 * 🎥[YouTube](https://sjlink.live/hy)
 * 🐦[Twitter](https://sjlink.live/hw)
 * 📘[Facebook](https://sjlink.live/hf)
 * 📸[Instagram](https://sjlink.live/hn)
 * 🖼️[Imgur](https://sjlink.live/hm)
-* 🕹️[Steam](https://sjlink.live/ht)
 * 🎵[SoundCloud](https://sjlink.live/hc)
+
+### Other Links
+* 🕹️[Steam](https://sjlink.live/ht)
 * ✨[Livestream Landing Page](https://sjlink.live/hl)
 * 🌐[PhasePharmer web app](https://phasepharmer.app)
 
