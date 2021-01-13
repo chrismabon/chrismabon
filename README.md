@@ -1,6 +1,21 @@
-### Hi there 👋
+## Social Media Links
+
+* 🎮[Twitch](https://sjlink.live/hv)
+* 🎥[YouTube](https://sjlink.live/hy)
+* 🐦[Twitter](https://sjlink.live/hw)
+* 📘[Facebook](https://sjlink.live/hf)
+* 📸[Instagram](https://sjlink.live/hn)
+* 🖼️[Imgur](https://sjlink.live/hm)
+* 🕹️[Steam](https://sjlink.live/ht)
+* 🎵[SoundCloud](https://sjlink.live/hc)
+* ✨[Livestream Landing Page](https://sjlink.live/hl)
+* 🌐[PhasePharmer web app](https://phasepharmer.app)
+
 
 <!--
+### Hi there 👋
+
+
 **chrismabon/chrismabon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
