@@ -20,7 +20,7 @@
 ### Web Apps
 
 ##### Mushroom Farming app for Project: Gorgon
-* 🌐[PhasePharmer web app](https://phasepharmer.app)
+* 🍄[PhasePharmer web app](https://phasepharmer.app)
 
 
 <!--
