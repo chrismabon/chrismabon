@@ -1,21 +1,39 @@
-### Social Media
+## Social Media
+
+Aggregate Site for Stream Links
+* ✨[Livestream Landing Page](https://sjlink.live/hl)
+
+Livestreams
 * 🎮[Twitch](https://sjlink.live/hv)
+
+Past Broadcasts & Recordings
 * 🎥[YouTube](https://sjlink.live/hy)
+
+Going-live Notifications
 * 🐦[Twitter](https://sjlink.live/hw)
 * 📘[Facebook](https://sjlink.live/hf)
 * 📸[Instagram](https://sjlink.live/hn)
+
+Gamer Profile
+* 🕹️[Steam](https://sjlink.live/ht)
+
+Screenshots
 * 🖼️[Imgur](https://sjlink.live/hm)
+
+Musical Artist Profile
 * 🎵[SoundCloud](https://sjlink.live/hc)
 
-### Other
-* 🕹️[Steam](https://sjlink.live/ht)
-* ✨[Livestream Landing Page](https://sjlink.live/hl)
+---
+
+## Web Apps
+
+Mushroom Farming app for Project: Gorgon players
 * 🌐[PhasePharmer web app](https://phasepharmer.app)
 
+---
 
 <!--
 ### Hi there 👋
-
 
 **chrismabon/chrismabon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
