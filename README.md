@@ -1,4 +1,4 @@
-### Social Media
+## Social Media
 
 ##### Aggregate Links Site
 * ✨[Landing Page](https://sjlink.live/hl)
@@ -17,9 +17,10 @@
 * 🕹️[Steam](https://sjlink.live/ht)
 * 🎵[SoundCloud](https://sjlink.live/hc)
 
-### Web Apps
 
-##### Mushroom Farming Web App
+## Web Apps
+
+##### Mushroom Farming Tool
 * 🍄[PhasePharmer](https://phasepharmer.app)
 
 
