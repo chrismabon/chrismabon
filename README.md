@@ -1,33 +1,31 @@
 ### Social Media
 
-###### Aggregate Site for Stream Links
-* ✨[Livestream Landing Page](https://sjlink.live/hl)
+##### Aggregate Site for Livestream Links
+* ✨[Landing Page](https://sjlink.live/hl)
 
-###### Livestreams
+##### Livestreams and Videos
 * 🎮[Twitch](https://sjlink.live/hv)
-
-###### Past Broadcasts & Recordings
 * 🎥[YouTube](https://sjlink.live/hy)
 
-###### Going-live Notifications
+##### Going-live Notifications
 * 🐦[Twitter](https://sjlink.live/hw)
 * 📘[Facebook](https://sjlink.live/hf)
 * 📸[Instagram](https://sjlink.live/hn)
 
-###### Gamer Profile
+##### Gamer Profile
 * 🕹️[Steam](https://sjlink.live/ht)
 
-###### Screenshots
+##### Screenshots
 * 🖼️[Imgur](https://sjlink.live/hm)
 
-###### Musical Artist Profile
+##### Musical Artist Profile
 * 🎵[SoundCloud](https://sjlink.live/hc)
 
 ---
 
 ### Web Apps
 
-###### Mushroom Farming app for Project: Gorgon
+##### Mushroom Farming app for Project: Gorgon
 * 🌐[PhasePharmer web app](https://phasepharmer.app)
 
 ---
