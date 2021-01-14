@@ -1,24 +1,20 @@
 ### Social Media
 
-##### Aggregate Site for Livestream Links
+##### Aggregate Links Site
 * ✨[Landing Page](https://sjlink.live/hl)
 
-##### Livestreams and Videos
+##### Livestreams, Videos, & Screenshots
 * 🎮[Twitch](https://sjlink.live/hv)
 * 🎥[YouTube](https://sjlink.live/hy)
+* 🖼️[Imgur](https://sjlink.live/hm)
 
 ##### Going-live Notifications
 * 🐦[Twitter](https://sjlink.live/hw)
 * 📘[Facebook](https://sjlink.live/hf)
 * 📸[Instagram](https://sjlink.live/hn)
 
-##### Gamer Profile
+##### Gamer & Musical Artist Profiles
 * 🕹️[Steam](https://sjlink.live/ht)
-
-##### Screenshots
-* 🖼️[Imgur](https://sjlink.live/hm)
-
-##### Musical Artist Profile
 * 🎵[SoundCloud](https://sjlink.live/hc)
 
 ---
