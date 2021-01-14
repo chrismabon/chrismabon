@@ -17,14 +17,11 @@
 * 🕹️[Steam](https://sjlink.live/ht)
 * 🎵[SoundCloud](https://sjlink.live/hc)
 
----
-
 ### Web Apps
 
 ##### Mushroom Farming app for Project: Gorgon
 * 🌐[PhasePharmer web app](https://phasepharmer.app)
 
----
 
 <!--
 ### Hi there 👋
