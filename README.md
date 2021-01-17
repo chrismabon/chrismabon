@@ -1,9 +1,9 @@
 ## Social Media
 
-##### Aggregate Links Site
-* ✨[Landing Page](https://sjlink.live/hl)
+##### Aggregated Links
+* ✨[Stream Landing Page](https://sjlink.live/hl)
 
-##### Livestreams, Videos, & Screenshots
+##### Livestream, Videos, & Screenshots
 * 🎮[Twitch](https://sjlink.live/hv)
 * 🎥[YouTube](https://sjlink.live/hy)
 * 🖼️[Imgur](https://sjlink.live/hm)
