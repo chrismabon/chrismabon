@@ -1,6 +1,6 @@
 #### Social & Gaming
 
-* ✨[Stream Landing Page](https://sjlink.live/hl)
+<!-- * ✨[Stream Landing Page](https://sjlink.live/hl) -->
 * 🎮[Twitch](https://sjlink.live/hv)
 * 🎥[YouTube](https://sjlink.live/hy)
 * 🖼️[Imgur](https://sjlink.live/hm)
