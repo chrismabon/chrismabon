@@ -10,4 +10,4 @@
 
 #### My App
 
-* 🍄[PhasePharmer](https://phasepharmer.app)
+* 🍄[PhasePharmer](https://umbra-aeterna-labs.github.io/phasepharmer/)
